@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.1",
-  "downloadUrl": "https://expo.dev/artifacts/eas/7C0Hyb4N9VM1UrgJREISkdi2mCdsACLQ-KdeCYV2pAM.apk",
+  "latestVersion": "1.2.2",
+  "downloadUrl": "https://expo.dev/artifacts/eas/cAM_Igl1UzoWa8ActxqWwQwYrq4cxAll-DmFfEnAug4.apk",
   "forceUpdate": true, 
-  "releaseNotes": "Qayta test qilib ko'rish"
+  "releaseNotes": "1.2.2\n- Fixed minor bugs and improved performance.\n- Updated user interface for better experience.\n- Added new features based on user feedback."
 }
