@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.2",
-  "downloadUrl": "https://expo.dev/artifacts/eas/cAM_Igl1UzoWa8ActxqWwQwYrq4cxAll-DmFfEnAug4.apk",
-  "forceUpdate": true, 
-  "releaseNotes": "1.2.2\n- Fixed minor bugs and improved performance.\n- Updated user interface for better experience.\n- Added new features based on user feedback."
+  "latestVersion": "1.2.3",
+  "downloadUrl": "https://expo.dev/artifacts/eas/ofg9lehaJ6mx-uhwx63PNxhdgvTDE4d0c-mbHsGF6jQ.apk",
+  "forceUpdate": true,
+  "releaseNotes": " - Force/normal modes with side-by-side action buttons and download progress\n - app.config.js: dynamic runtimeVersion, expo-router plugin, drop unused storage permissions\n - Install expo-application, align expo SDK to 54.0.35 patches\n\nProfile screen:\n - Reorder sections: driver info up, theme/version/logout to bottom\n - New DriverInfoCard with left accent bars (phone/license/expiry)\n - Compact tinted MiniStat cards (success/info/warning)\n - Show scroll indicator, conditional STAGING badge, type/dead-code fixes\n\nShipment navigation:\n - Add shipments stack with slide_from_right animation and swipe-back\n - Remove non-functional Copy button on order count"
 }
